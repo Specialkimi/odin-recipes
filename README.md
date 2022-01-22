@@ -1,3 +1,2 @@
 # odin-recipes
-testing 
-testing more_
+First exercise to test HTML skills
